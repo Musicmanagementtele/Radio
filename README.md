@@ -32,7 +32,7 @@ Radio in [AsmSafone](https://t.me/AsmSafone) Channel & Music in [AsmSupport](htt
 
 ## Deploy to Heroku
 
-<p><a href="https://deploy.safone.tech/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template="> https://github.com/Musicmanagementtele/Radio<img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 NOTE: Change the app region to Europe (it will help to make the bot stable)
 
